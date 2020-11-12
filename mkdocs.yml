@@ -1,0 +1,11 @@
+site_name: Octetful Notes - Kafka
+nav:
+  - Home: index.md
+  - Getting Started: gettingstarted/index.md
+  - AWS MSK: msk/index.md
+  - Tools: 
+    - tools/index.md
+    - Kafka Connect: tools/kafkaconnect/index.md
+    - Avro: tools/avro/index.md
+  - Transactions: tx/index.md
+theme: readthedocs

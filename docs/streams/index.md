@@ -6,6 +6,7 @@ A curated collection of articles on Kafka Streams.
 * [Architecture - Confluent](https://docs.confluent.io/platform/current/streams/architecture.html)
 * [Concepts - Confluent](https://docs.confluent.io/platform/current/streams/concepts.html)
 * [Core Concepts - Apache](https://kafka.apache.org/21/documentation/streams/core-concepts)
+* [Getting Started with Docker](https://www.confluent.io/blog/getting-started-with-the-kafka-streams-api-using-confluent-docker-image/)
 * [Documentation - Apache](https://kafka.apache.org/documentation/streams/)
 * [DSL API](https://kafka.apache.org/26/documentation/streams/developer-guide/dsl-api.html)
 * [DSL API - Confluent](https://docs.confluent.io/platform/current/streams/developer-guide/dsl-api.html#)

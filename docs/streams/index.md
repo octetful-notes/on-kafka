@@ -8,6 +8,7 @@ A curated collection of articles on Kafka Streams.
 * [Core Concepts - Apache](https://kafka.apache.org/21/documentation/streams/core-concepts)
 * [Documentation - Apache](https://kafka.apache.org/documentation/streams/)
 * [DSL API](https://kafka.apache.org/26/documentation/streams/developer-guide/dsl-api.html)
+* [DSL API - Confluent](https://docs.confluent.io/platform/current/streams/developer-guide/dsl-api.html#)
 * [Javadoc - KStreams](https://kafka.apache.org/23/javadoc/org/apache/kafka/streams/kstream/KStream.html)
 * [Javadoc - Ktable](https://kafka.apache.org/10/javadoc/org/apache/kafka/streams/kstream/KTable.html)
 * [Javadoc - KGroupedTable](https://kafka.apache.org/10/javadoc/org/apache/kafka/streams/kstream/KGroupedTable.html)

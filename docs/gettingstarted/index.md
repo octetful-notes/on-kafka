@@ -5,6 +5,7 @@
 * [Getting Started with Apache Kafka](https://medium.com/rock-your-data/getting-started-with-apache-kafka-efc616bd6dd5) - This one is a brief Medium blog post with some diagrams for overviews and concepts.
 * [How to get started with Kafka in 5 minutes](https://dev.to/de_maric/how-to-get-started-with-apache-kafka-in-5-minutes-18k5) - If you want to get hands on quickly, then this is the article to follow this article.
 * [Introduction to Kafka - Confluent Platform](https://docs.confluent.io/current/kafka/introduction.html) -  A guide from confluent on the confluent kafka platform.
+* [Documentation](https://kafka.apache.org/20/documentation.html) - Full Kafka Documentation
 
 ---
 **__YouTube Content__**

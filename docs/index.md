@@ -13,3 +13,6 @@ Collection of resources on Kafka tools such as clients, libraries, and desktop u
 
 ## [Transactions](tx/index.md)
 Collection of resources on Kafka messaging transactions.
+
+## [Kafka Streams](streams/index.md)
+Collection of resources on Kafka Streams.

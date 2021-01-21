@@ -13,6 +13,9 @@ A curated collection of articles on Kafka Streams.
 * [Javadoc - KStreams](https://kafka.apache.org/23/javadoc/org/apache/kafka/streams/kstream/KStream.html)
 * [Javadoc - Ktable](https://kafka.apache.org/10/javadoc/org/apache/kafka/streams/kstream/KTable.html)
 * [Javadoc - KGroupedTable](https://kafka.apache.org/10/javadoc/org/apache/kafka/streams/kstream/KGroupedTable.html)
+* [Javadoc - GlobalKTable](https://kafka.apache.org/23/javadoc/org/apache/kafka/streams/kstream/GlobalKTable.html)
+* [Javadoc - StreamsBuilder](https://kafka.apache.org/23/javadoc/org/apache/kafka/streams/StreamsBuilder.html)
+* [Javadoc - Interactive Query Service](https://micronaut-projects.github.io/micronaut-kafka/1.2.x/api/io/micronaut/configuration/kafka/streams/InteractiveQueryService.html)
 
 ---
 
@@ -48,6 +51,8 @@ A confluent article on cross and join operations in Kafka.
 Alternatively, read this [article from Supergloo](https://supergloo.com/kafka-streams/kafka-streams-joins-examples/)
 
 Also, here's another article from confluent on [Real-time Joins and Aggregations using Kafka streams](https://www.confluent.io/blog/distributed-real-time-joins-and-aggregations-on-user-activity-events-using-kafka-streams/)
+
+[Kafka Streams Joins Explored](https://mydeveloperplanet.com/2019/10/30/kafka-streams-joins-explored/) is an article that explores the joins with much more simplicity and clarity and also hints at RESTful APIs.
 
 ---
 

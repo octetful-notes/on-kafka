@@ -11,6 +11,17 @@ A list of curated guides, articles and references on Spring Cloud streams.
 * [Consumer Groups](https://docs.spring.io/spring-cloud-stream/docs/Brooklyn.RELEASE/reference/htmlsingle/#consumer-groups)
 * [Introduction to KafkaStreams in Java - Baeldung](https://www.baeldung.com/java-kafka-streams)
 
+
+---
+
+[__State Stores And Interacive Queries__](https://spring.io/blog/2019/12/09/stream-processing-with-spring-cloud-stream-and-apache-kafka-streams-part-6-state-stores-and-interactive-queries)
+
+An interesting collection of articles from spring.io on spring cloud stream, kafka streams, state stores and interactive queries.
+
+For reference, also read the article from Confluent on [Kafka Streams Interactive Queries](https://docs.confluent.io/platform/current/streams/developer-guide/interactive-queries.html#streams-developer-guide-interactive-queries)
+
+---
+
 ## Binders
 
 * [Kafka Binder Consumer Properties](https://cloud.spring.io/spring-cloud-stream-binder-kafka/spring-cloud-stream-binder-kafka.html#kafka-consumer-properties)
